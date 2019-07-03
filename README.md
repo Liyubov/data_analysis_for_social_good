@@ -1,9 +1,16 @@
 # Data analysis methods 
 
-Here we introduce some data analysis methods to work on various problems. 
+We introduce some data analysis methods to work on various problems. 
+We use various methods, mostly focusing on:
 
-We use several methods: 
-mostly we will focus on using network theory and stochastic processes methods to analyze the data from various open sources.
+1. using network theory 
+https://github.com/Liyubov/networks_beauty
+
+2. stochastic processes 
+https://github.com/Liyubov/networks_random_walking
+
+Repository for analysis of mobility data and trajectories analysis https://github.com/Liyubov/mobility_analysis
+
 
 Projects, which inspired me in creating this repository:
 
