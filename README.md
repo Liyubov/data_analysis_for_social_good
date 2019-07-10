@@ -1,9 +1,9 @@
 # Data analysis methods 
 
-We introduce some data analysis methods to work on various problems. 
-We use various methods, mostly focusing on:
+Here we apply the following data analysis methods to work on various problems. 
+The methods we are using are mostly based on:
 
-1. using network theory 
+1. network theory 
 https://github.com/Liyubov/networks_beauty
 
 2. stochastic processes 
@@ -32,8 +32,12 @@ The notebooks here are dedicated to data visualisation and data analysis
 ### data_on_map_visualisation.ipynb 
 
 We visualise the csv file with data on a map. The example of data are randomized data from educational centres around the world. 
-Due to the data privacy reasons we are showing the data only in the cases when data is open access. 
+Due to the data privacy reasons we are visualising only in the average characteristics of the data, such as average number of data points and average parameters of datapoints (such as number of resources needed in datapoints etc.).
 
 ### mobilitydata analyzer.ipynb 
 
-We analyze the mobility data from global mobility data. (work in progress)
+We analyze the mobility data from open global mobility data. (work in progress)
+
+
+### trajectory analyzer.ipynb 
+(work in progress for analysis of individual trajectories)
