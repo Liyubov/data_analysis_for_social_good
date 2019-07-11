@@ -26,8 +26,11 @@ from https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a9775
 
 # Data visualisation 
 
-First of all we start with visualisation of the data. 
+First of all, we start with visualisation of the data. 
+We are working with data from csv files structured as:
+   |institution name | institution type| institution location| institution contact| institution properties|
 The notebooks here are dedicated to data visualisation and data analysis
+Example of open data files can be found here https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr
 
 ### data_on_map_visualisation.ipynb 
 
