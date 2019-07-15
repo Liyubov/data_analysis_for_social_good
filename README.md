@@ -34,13 +34,18 @@ Example of open data files can be found here https://data.cityofnewyork.us/Educa
 
 ### data_on_map_visualisation.ipynb 
 
-We visualise the csv file with data on a map. The example of data are randomized data from educational centres around the world. 
+We visualise datafiles from two example files 
+1. the csv file with data on randomized anonymized educational institutions data
+2. the dbf with open data from https://toolbox.google.com/datasetsearch/search?query=schools%20around%20the%20globe&docid=2T2%2BDeqbWNzcqeorAAAAAA%3D%3D 
+The example of data are randomized data from educational centres around the world. 
 Due to the data privacy reasons we are visualising only in the average characteristics of the data, such as average number of data points and average parameters of datapoints (such as number of resources needed in datapoints etc.).
 
 ### mobilitydata analyzer.ipynb 
 
-We analyze the mobility data from open global mobility data. (work in progress)
+We analyze the mobility data from open GLOBAL mobility data. (work in progress)
+More information on it is here https://github.com/Liyubov/mobility_analysis
 
 
-### trajectory analyzer.ipynb 
+###  	analysis_mobility_trajectories_oh_data.ipynb 
+We analyze LOCAL mobility data 
 (work in progress for analysis of individual trajectories)
