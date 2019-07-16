@@ -32,6 +32,28 @@ We are working with data from csv files structured as:
 The notebooks here are dedicated to data visualisation and data analysis
 Example of open data files can be found here https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr
 
+### Sources for interactive maps
+
+Links from Hugo on blocks:
+- bl.ocks.org : the main community platform for D3js devs and their nominative porfolio.
+-- https://bl.ocks.org/mbostock - Mike Bostock is the creator of D3js
+--- https://bost.ocks.org/mike/ - Mike Bostock  tutorials. More links there.
+---- Command-Line Cartography
+---- Towards Reusable Charts
+---- Thinking with Joins
+-- https://bl.ocks.org/jasondavies -- Best budy of mbostock for maps
+-- https://bl.ocks.org/hugolpz/c89a76096c070a5a7d23 - Hugo Lopez, was a leading D3js cartographer back in 2014. Very rusty fingers now (2019). Globe tour
+--- Stackoverflow answer for focus on something !
+
+Codes browsers :
+- Blocksplorer : http://bl.ocksplorer.org , tap in bl.ocks.org. Really 2014.
+- Observable : https://observablehq.com/search?query=d3.geo -- by mbostock, more 2018
+
+Toolkits:
+- https://jsoneditoronline.org -- for topojson data
+
+# Code
+
 ### data_on_map_visualisation.ipynb 
 
 We visualise datafiles from two example files 
