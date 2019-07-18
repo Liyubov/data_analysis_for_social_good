@@ -1,6 +1,6 @@
 # Data analysis methods 
 
-Here we apply the following data analysis methods to work on various problems. 
+Here we apply some standard data analysis methods to analyze and visualize the data for social good. 
 The methods we are using are mostly based on:
 
 1. network theory 
