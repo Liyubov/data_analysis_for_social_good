@@ -12,15 +12,17 @@ https://github.com/Liyubov/networks_random_walking
 Repository for analysis of mobility data and trajectories analysis https://github.com/Liyubov/mobility_analysis
 
 
-Projects, which inspired creation of this repository:
+### Motivation for this project
 
-1. Unicef school mapping project 
+These are projects, which inspired creation of this repository:
+
+1. Unicef school mapping project and Magicbox git repository
 https://www.unicef.org/innovation/school-mapping
 
 2. Lecturers without borders project, hosted at CRI 
 www.scied.network 
 
-3. Open global mobility data 
+3. Open global mobility data of airplane traffic 
 from https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb 
 
 
