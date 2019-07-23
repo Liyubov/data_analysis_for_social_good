@@ -25,6 +25,15 @@ www.scied.network
 3. Open global mobility data of airplane traffic 
 from https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb 
 
+# Data description 
+
+The open datasets for this project are taken from:
+1. citizen science projects, such as https://scistarter.org/lecturers-without-borders-collecting-information-a
+2. open database from mobility data 
+https://bluehub.jrc.ec.europa.eu/migration/app/index.html?state=5cc845a97758cd17cdecd1fb 
+and from Erasmus travel data
+
+
 
 # Data visualisation 
 
@@ -34,7 +43,7 @@ We are working with data from csv files structured as:
 The notebooks here are dedicated to data visualisation and data analysis
 Example of open data files can be found here https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr
 
-### Sources for interactive maps
+### Data visualisation sources for interactive maps
 
 Links from Hugo on blocks:
 - bl.ocks.org : the main community platform for D3js devs and their nominative porfolio.
