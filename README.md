@@ -80,9 +80,12 @@ More information on it is here https://github.com/Liyubov/mobility_analysis
 
 
 ### LeWiBo_on_map.ipynb 
-visualisation of activities of the project "Lectures without borders": lectures uploaded to the airtable visualised on a world map, 
+It is file for the visualisation of activities of the project "Lectures without borders": lectures uploaded to the airtable visualised on a world map, 
 preprocessing data from dataframe exported from csv file with all lectures made or planned. More details about activities on www.scied.network
 
 ###  	analysis_mobility_trajectories_oh_data.ipynb 
 We analyze LOCAL mobility data 
 (work in progress for analysis of individual trajectories)
+
+### bikes_mobility_analysis.ipynb 
+We start to analyze bike mobility data and other properies of bikes sharing systems in Berlin. The notebook is inspired by A.Kapp workshop at City lab Berlin https://github.com/technologiestiftung/bike-sharing . This notebook is in progress.
