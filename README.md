@@ -75,7 +75,7 @@ Due to the data privacy reasons we are visualising only in the average character
 
 ### mobilitydata analyzer.ipynb 
 
-We analyze the mobility data from open GLOBAL mobility data. (work in progress)
+We analyze open GLOBAL mobility data from open flights where we get information about all cross-border flights. Our main goal is to understand trends in growth of mobility cross-borders vs. intercontinental flights.
 More information on it is here https://github.com/Liyubov/mobility_analysis
 
 
@@ -84,7 +84,7 @@ It is file for the visualisation of activities of the project "Lectures without 
 preprocessing data from dataframe exported from csv file with all lectures made or planned. More details about activities on www.scied.network
 
 ###  	analysis_mobility_trajectories_oh_data.ipynb 
-We analyze LOCAL mobility data 
+We analyze INDIVIDUAL mobility data from openhumans example of data in order to understand movements of individuals. 
 (work in progress for analysis of individual trajectories)
 
 ### bikes_mobility_analysis.ipynb 
