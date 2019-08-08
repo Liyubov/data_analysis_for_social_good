@@ -81,7 +81,9 @@ More information on it is here https://github.com/Liyubov/mobility_analysis
 
 ### LeWiBo_on_map.ipynb 
 It is file for the visualisation of activities of the project "Lectures without borders": lectures uploaded to the airtable visualised on a world map, 
-preprocessing data from dataframe exported from csv file with all lectures made or planned. More details about activities on www.scied.network
+preprocessing data from dataframe exported from csv file with all lectures made or planned. More details about project and activities (lectures, seminars of Lectures without borders) are on www.scied.network
+We collect the information about schools around the globe on Open Street map file. Contact us if you would like to contribute. 
+We also plan to extent mapping to general projects, such as Open Street map plus Humanitarian dataprojects https://data.humdata.org/dataset/hotosm_arm_roads 
 
 ###  	analysis_mobility_trajectories_oh_data.ipynb 
 We analyze INDIVIDUAL mobility data from openhumans example of data in order to understand movements of individuals. 
